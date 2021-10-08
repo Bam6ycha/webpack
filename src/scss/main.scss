@@ -1,0 +1,9 @@
+@import "./vendor.scss";
+@import "../assets/fonts/Roboto-Regular.woff2";
+body {
+  background-color: red;
+  font-family: "Roboto";
+}
+body {
+  background: url("../img/01.jpg") center no-repeat;
+}
